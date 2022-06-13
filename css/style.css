@@ -33,7 +33,13 @@ body {
         width: 30%;
     }
 
+    .card-container {
+        padding: 20px 0px;
+    }
 
+    .proscess-card{
+        padding: 20px;
+    }
     /* ================ testomonion section===================== */
 
 
